@@ -1,9 +1,12 @@
 [submodule "modules/vm-template/2.0.0"]
 	path = modules/vm-template/2.0.0
 	url = https://github.com/timdeboer67/vm-template.git
+	branch = Releases/v2.0.0
 [submodule "modules/vm-template/1.0.0"]
 	path = modules/vm-template/1.0.0
 	url = https://github.com/timdeboer67/vm-template.git
+	branch = Releases/v1.0.0
 [submodule "modules/storage-account-template/1.0.0"]
 	path = modules/storage-account-template/1.0.0
 	url = https://github.com/timdeboer67/storage-account-template.git
+	branch = Releases/v1.0.0
